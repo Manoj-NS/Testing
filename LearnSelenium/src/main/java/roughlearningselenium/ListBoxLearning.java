@@ -59,23 +59,19 @@ public class ListBoxLearning {
 /*	
 // To select all checkboxes
 		
-	//for loop
-		
-		for (int i = 0; i < listnames.size(); i++) {
-			
-			listnames.get(i).click();
-			
+	//for loop		
+		for (int i = 0; i < listnames.size(); i++) {	
+			listnames.get(i).click();			
 		}
 		
-		
-	//foreach loop	
+//foreach loop	
 		
 		for (WebElement selectall:listnames)
 		{
-			selectall.click();
-			
+			selectall.click();			
 		}
 		*/
+		
 		/*
 	// To select the random multiple check box
 		// id=backend_dev and full_stack_dev

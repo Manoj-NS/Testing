@@ -51,7 +51,7 @@ public class LearnExtentReport {
 		
 		//To come out of reports folder use ../
 		
-		testcase2.pass("Click Save Button",MediaEntityBuilder.createScreenCaptureFromPath(".././snaps/Test04.jpg").build());
+ testcase2.pass("Click Save Button",MediaEntityBuilder.createScreenCaptureFromPath(".././snaps/Test04.jpg").build());
 		
 		//Step06: Mandatory Step
 		extent.flush();
